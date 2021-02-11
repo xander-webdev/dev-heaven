@@ -1,0 +1,196 @@
+[{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001340155",
+        "name": "Travel Action Cam",
+        "description": "Action cam with secure waterproof casing for all those high risk high reward photo & video opportunities",
+        "price": 100.00,
+        "category": 1,
+        "rating": 4.0,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "actioncam.jpg"
+    }
+}, {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001600425",
+        "name": "Travellers Back pack",
+        "description": "Spacious backback with ample space for your laptop, headphones and other tech accessories",
+        "price": 200.00,
+        "category": 2,
+        "rating": 5.0,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0113201617034987M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "backpack.jpg"
+    }
+}, {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001890157",
+        "name": "Coffee Mug",
+        "description": "A great coffee mug for every developers coffee needs",
+        "price": 50.00,
+        "category": 2,
+        "rating": 5.0,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "coffeemug.jpg"
+    }
+}, {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002111605",
+        "name": "Eco Travellers Cutlery",
+        "description": "Cultery made from wood. Perfect for travelling to new places",
+        "price": 100.00,
+        "category": 2,
+        "rating": 5.0,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "cutlery.jpg"
+    }
+}, {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002260206",
+        "name": "Earpods",
+        "description": "Music on the go with ear pods!",
+        "price": 200.00,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "earpods.jpg"
+    }
+}, {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002440521",
+        "name": "Portable filter coffee funnel",
+        "description": "Portable filter coffee funnel because for a dev cannot live on food & water alone",
+        "price": 30.00,
+        "category": 2,
+        "rating": 4.4,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "filtercoffee.jpg"
+    }
+}, {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002601115",
+        "name": "Fossil watch",
+        "description": "Stylish watch that is functional yet stylish too",
+        "price": 200.00,
+        "category": 1,
+        "rating": 4.5,
+        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+        "image": "fossilwatch.jpg"
+    }
+}, {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002690715",
+        "name": "Headphones",
+        "description": "Great pair of headphones when you need to go into deep focus!",
+        "price": 169.99,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1020201517025390M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+        "image": "headphones.jpg"
+    }
+}, {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002701115",
+        "name": "Macbook",
+        "description": "The all you can ever need when it comes to portable programming",
+        "price": 600.00,
+        "category": 1,
+        "rating": 4.4,
+        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+        "image": "macbook.jpg"
+    }
+}, {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002761055",
+        "name": "Mouse",
+        "description": "Portable mouse for your PC or Laptop. No need to use the track pad anymore!",
+        "price": 80.00,
+        "category": 1,
+        "rating": 5.0,
+        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+        "image": "mouse.jpg"
+    }
+}, {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820069",
+        "name": "Portable Speaker",
+        "description": "The music stays with you no matter where you are",
+        "price": 19.99,
+        "category": 1,
+        "rating": 4.6,
+        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+        "image": "portablespeaker.jpg"
+    }
+}, {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820147",
+        "name": "Smart Phone",
+        "description": "Stylish fast smartphone with all the functionality you need",
+        "price": 200.00,
+        "category": 1,
+        "rating": 3.2,
+        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+        "image": "smartphone.jpg"
+    }
+}, {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002910572",
+        "name": "Smart Watch",
+        "description": "Smart Watch helps you keep track of the important things going on when being on your phone isn't appropriate",
+        "price": 260.00,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+        "image": "smartwatch.jpg"
+    }
+}, {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002990740",
+        "name": "Toothbrush",
+        "description": "Eco Travelling tooth brush.",
+        "price": 48.00,
+        "category": 2,
+        "rating": 4.8,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "toothbrush.jpg"
+    }
+}, {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003050248",
+        "name": "Leather Travel Bag",
+        "description": "Excellent leather travel bag for those who travel like a minimalist",
+        "price": 165.99,
+        "category": 2,
+        "rating": 4.4,
+        "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+        "image": "travelbag.jpg"
+    }
+}]
